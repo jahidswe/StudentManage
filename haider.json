@@ -1,0 +1,26 @@
+[
+      {
+            "id": 1,
+            "name": "Jahid",
+            "roll": 84,
+            "department": "swe",
+            "semester": 6,
+            "cgpa": 3.43
+      },
+      {
+            "id": 2,
+            "name": "monisha",
+            "roll": 23,
+            "department": "nfe",
+            "semester": 7,
+            "cgpa": 3.88
+      },
+      {
+            "id": 3,
+            "name": "Haider",
+            "roll": 34,
+            "department": "swe",
+            "semester": 9,
+            "cgpa": 3.57
+      }
+]
